@@ -20,6 +20,8 @@ main()
   printf("Guess my number: ");
   scanf("%d", &guess);
 
+  printf("This is Alex's edit");
+
   while (guess != answer) {
     printf("Wrong! try again\n");
     printf("Guess my number: ");
