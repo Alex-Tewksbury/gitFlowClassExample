@@ -13,7 +13,7 @@
 int
 main()
 {
-  const int answer = 31;
+  const int answer = 12;
   int guess;
 
   printf("I'm thinking of a number between 1-100.\n");
